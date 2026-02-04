@@ -1,4 +1,4 @@
-# 🛡️ Security Monitoring Agent – Log Compression & Anomaly Detection
+#  Security Monitoring Agent – Log Compression & Anomaly Detection
 
 ## Project Overview
 This project implements a **Cybersecurity Security Monitoring Agent** that compresses large-scale system logs and applies **machine learning–based anomaly detection** to identify suspicious activities efficiently.
@@ -17,7 +17,7 @@ The goal is to **reduce log processing cost**, **improve detection speed**, and 
 
 ##  How It Works (Simple Explanation)
 
-### 1️⃣ Log Compression
+###  Log Compression
 - Raw logs are grouped by:
   - User
   - Event type
